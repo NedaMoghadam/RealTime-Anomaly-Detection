@@ -309,4 +309,4 @@ with open(log_file_path, "w") as log_file:
     log_file.write(f"Graph Creation Time (Total): {graph_creation_time_total:.2f} seconds\n")
     log_file.write(f"Training Time (Total): {training_time_total:.2f} seconds\n")
 
-print(f"Timing results saved to {log_file_path}") HOW CAN I PUT IN MY GITHUB
+print(f"Timing results saved to {log_file_path}") 
